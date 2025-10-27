@@ -16,7 +16,7 @@
     "dependencies": {
         "@emotion/react": "^11.9.3",
         "@emotion/styled": "^11.9.3",
-        "@mui/icons-material": "^5.8.4",
+        "@mui/icons-material": "^5.18.0",
         "@mui/lab": "^5.0.0-alpha.86",
         "@mui/material": "^5.8.4",
         "@solana-mobile/mobile-wallet-adapter-protocol": "link:../../js/packages/mobile-wallet-adapter-protocol",
