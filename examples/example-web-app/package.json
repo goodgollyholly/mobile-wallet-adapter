@@ -18,7 +18,7 @@
         "@emotion/styled": "^11.9.3",
         "@mui/icons-material": "^5.8.4",
         "@mui/lab": "^5.0.0-alpha.86",
-        "@mui/material": "^5.8.4",
+        "@mui/material": "^5.18.0",
         "@solana-mobile/mobile-wallet-adapter-protocol": "link:../../js/packages/mobile-wallet-adapter-protocol",
         "@solana-mobile/mobile-wallet-adapter-protocol-web3js": "link:../../js/packages/mobile-wallet-adapter-protocol-web3js",
         "@solana-mobile/wallet-adapter-mobile": "link:../../js/packages/wallet-adapter-mobile",
