@@ -20,7 +20,7 @@
     "js-base64": "^3.7.7",
     "localstorage-polyfill": "^1.0.1",
     "react": "19.0.0",
-    "react-native": "0.79.2",
+    "react-native": "0.81.0",
     "react-native-get-random-values": "^1.11.0",
     "react-native-paper": "^5.12.5",
     "react-native-safe-area-context": "^5.4.1",
